@@ -1,0 +1,95 @@
+{
+  "overview": {
+    "totalStudents": 2847,
+    "activeClasses": 24,
+    "monthlyRevenue": 45231,
+    "totalBlogPosts": 127,
+    "growthMetrics": {
+      "studentsGrowth": 12,
+      "classesGrowth": 3,
+      "revenueGrowth": 18,
+      "postsGrowth": 5
+    }
+  },
+  "todaySchedule": [
+    {
+      "id": 1,
+      "className": "Belly Dance - Beginner",
+      "time": "10:00 AM",
+      "instructor": "Maria Rodriguez",
+      "enrolled": 15,
+      "capacity": 20,
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "className": "Zumba Fitness",
+      "time": "2:00 PM",
+      "instructor": "Ahmed Hassan",
+      "enrolled": 18,
+      "capacity": 25,
+      "status": "upcoming"
+    },
+    {
+      "id": 3,
+      "className": "Ballet - Intermediate",
+      "time": "4:00 PM",
+      "instructor": "Elena Petrov",
+      "enrolled": 12,
+      "capacity": 15,
+      "status": "upcoming"
+    },
+    {
+      "id": 4,
+      "className": "Latin Dance - Advanced",
+      "time": "6:00 PM",
+      "instructor": "Carlos Mendez",
+      "enrolled": 18,
+      "capacity": 18,
+      "status": "full"
+    }
+  ],
+  "recentActivity": [
+    {
+      "id": 1,
+      "type": "enrollment",
+      "message": "Sarah Johnson enrolled in Belly Dance class",
+      "timestamp": "2024-01-24T14:30:00Z",
+      "icon": "user-plus"
+    },
+    {
+      "id": 2,
+      "type": "class",
+      "message": "New Zumba class scheduled for tomorrow",
+      "timestamp": "2024-01-24T13:45:00Z",
+      "icon": "calendar-plus"
+    },
+    {
+      "id": 3,
+      "type": "blog",
+      "message": "New blog post 'Dance Benefits' published",
+      "timestamp": "2024-01-24T12:00:00Z",
+      "icon": "file-text"
+    },
+    {
+      "id": 4,
+      "type": "order",
+      "message": "Order #1234 for dance shoes completed",
+      "timestamp": "2024-01-24T10:15:00Z",
+      "icon": "package"
+    },
+    {
+      "id": 5,
+      "type": "event",
+      "message": "Annual Dance Showcase registration opened",
+      "timestamp": "2024-01-24T09:30:00Z",
+      "icon": "calendar"
+    }
+  ],
+  "quickStats": {
+    "pendingEnrollments": 12,
+    "lowStockProducts": 3,
+    "upcomingEvents": 5,
+    "draftPosts": 2
+  }
+}

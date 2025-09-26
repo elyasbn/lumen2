@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "The Health Benefits of Belly Dancing",
+    "slug": "health-benefits-belly-dancing",
+    "excerpt": "Discover how belly dancing can improve your physical and mental well-being while connecting you to ancient traditions.",
+    "content": "Belly dancing is more than just an art form—it's a powerful way to improve your overall health and well-being...",
+    "author": "Maria Rodriguez",
+    "authorId": 1,
+    "publishedAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-15T10:00:00Z",
+    "status": "published",
+    "category": "Health & Wellness",
+    "tags": ["belly-dance", "health", "fitness", "wellness"],
+    "readTime": "5 min read",
+    "views": 1250,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1547153760-18fc86324498?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "seo": {
+      "metaTitle": "Health Benefits of Belly Dancing | Lumen Studio",
+      "metaDescription": "Learn about the amazing health benefits of belly dancing for physical fitness and mental wellness."
+    }
+  },
+  {
+    "id": 2,
+    "title": "Traditional Arabic Dance: A Cultural Journey",
+    "slug": "traditional-arabic-dance-cultural-journey",
+    "excerpt": "Explore the rich history and cultural significance of traditional Arabic dance forms and their modern interpretations.",
+    "content": "Traditional Arabic dance is a window into centuries of cultural heritage...",
+    "author": "Fatima Al-Zahra",
+    "authorId": 2,
+    "publishedAt": "2024-01-10T14:30:00Z",
+    "updatedAt": "2024-01-10T14:30:00Z",
+    "status": "published",
+    "category": "Culture",
+    "tags": ["arabic-dance", "culture", "tradition", "heritage"],
+    "readTime": "8 min read",
+    "views": 890,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1611879531844-24b7ddf40b26?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "seo": {
+      "metaTitle": "Traditional Arabic Dance Cultural Journey | Lumen Studio",
+      "metaDescription": "Discover the rich cultural heritage of traditional Arabic dance forms."
+    }
+  },
+  {
+    "id": 3,
+    "title": "Getting Started with Latin Dance",
+    "slug": "getting-started-latin-dance",
+    "excerpt": "A beginner's guide to salsa, bachata, and other popular Latin dance styles that will get you moving to the rhythm.",
+    "content": "Latin dance is all about passion, rhythm, and connection...",
+    "author": "Carlos Mendez",
+    "authorId": 3,
+    "publishedAt": "2024-01-08T16:45:00Z",
+    "updatedAt": "2024-01-08T16:45:00Z",
+    "status": "published",
+    "category": "Beginner Guide",
+    "tags": ["latin-dance", "salsa", "bachata", "beginner"],
+    "readTime": "6 min read",
+    "views": 1450,
+    "featured": true,
+    "image": "https://images.unsplash.com/photo-1650465811226-de19b0502e94?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "seo": {
+      "metaTitle": "Getting Started with Latin Dance | Lumen Studio",
+      "metaDescription": "Learn the basics of Latin dance including salsa, bachata, and merengue."
+    }
+  },
+  {
+    "id": 4,
+    "title": "The Art of Ballet: Grace and Discipline",
+    "slug": "art-of-ballet-grace-discipline",
+    "excerpt": "Understanding the fundamentals of ballet and its impact on overall dance technique and personal development.",
+    "content": "Ballet is the foundation of all dance forms, teaching discipline, grace, and technical precision...",
+    "author": "Elena Petrov",
+    "authorId": 4,
+    "publishedAt": "2024-01-05T09:15:00Z",
+    "updatedAt": "2024-01-05T09:15:00Z",
+    "status": "draft",
+    "category": "Technique",
+    "tags": ["ballet", "technique", "discipline", "grace"],
+    "readTime": "7 min read",
+    "views": 0,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1495791185843-c73f2269f669?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "seo": {
+      "metaTitle": "The Art of Ballet: Grace and Discipline | Lumen Studio",
+      "metaDescription": "Explore the fundamentals of ballet and its impact on dance technique."
+    }
+  },
+  {
+    "id": 5,
+    "title": "Dance Fitness: Fun Ways to Stay Active",
+    "slug": "dance-fitness-fun-ways-stay-active",
+    "excerpt": "How dance-based fitness classes can make exercise enjoyable and effective for people of all fitness levels.",
+    "content": "Dance fitness combines the joy of movement with effective cardiovascular exercise...",
+    "author": "Ahmed Hassan",
+    "authorId": 5,
+    "publishedAt": "2024-01-03T11:20:00Z",
+    "updatedAt": "2024-01-03T11:20:00Z",
+    "status": "published",
+    "category": "Fitness",
+    "tags": ["fitness", "zumba", "cardio", "exercise"],
+    "readTime": "4 min read",
+    "views": 2100,
+    "featured": false,
+    "image": "https://images.unsplash.com/photo-1517130038641-a774d04afb3c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "seo": {
+      "metaTitle": "Dance Fitness: Fun Ways to Stay Active | Lumen Studio",
+      "metaDescription": "Discover how dance fitness can make exercise fun and effective."
+    }
+  }
+]

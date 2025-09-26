@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Maria Rodriguez",
+    "email": "maria@lumenstudio.com",
+    "phone": "+1 (555) 123-4567",
+    "specialties": ["Belly Dance", "Flamenco", "Traditional Arabic"],
+    "experience": "8 years",
+    "rating": 4.9,
+    "students": 45,
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616c6d4e6e8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "bio": "Professional belly dance instructor with international competition experience and deep knowledge of Middle Eastern dance traditions.",
+    "certifications": ["Certified Belly Dance Instructor", "Arabic Dance Specialist", "Performance Arts Diploma"],
+    "joinedAt": "2020-03-15T00:00:00Z",
+    "socialMedia": {
+      "instagram": "@maria_bellydance",
+      "facebook": "MariaRodriguezDance"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Fatima Al-Zahra",
+    "email": "fatima@lumenstudio.com",
+    "phone": "+1 (555) 234-5678",
+    "specialties": ["Khaleej Dance", "Traditional Arabic", "Cultural Dance"],
+    "experience": "12 years",
+    "rating": 4.8,
+    "students": 38,
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "bio": "Traditional Arabic dance expert from the Gulf region with extensive knowledge of cultural heritage and authentic movements.",
+    "certifications": ["Master of Traditional Arabic Dance", "Cultural Heritage Specialist", "Gulf Dance Authority"],
+    "joinedAt": "2019-08-20T00:00:00Z",
+    "socialMedia": {
+      "instagram": "@fatima_khaleej",
+      "youtube": "FatimaTraditionalDance"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Carlos Mendez",
+    "email": "carlos@lumenstudio.com",
+    "phone": "+1 (555) 345-6789",
+    "specialties": ["Salsa", "Bachata", "Merengue", "Latin Fusion"],
+    "experience": "10 years",
+    "rating": 4.7,
+    "students": 52,
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "bio": "Latin dance champion with extensive performance background and passion for sharing the joy of Latin rhythms.",
+    "certifications": [
+      "Professional Latin Dance Instructor",
+      "Salsa World Championship Finalist",
+      "Dance Performance Arts"
+    ],
+    "joinedAt": "2020-11-10T00:00:00Z",
+    "socialMedia": {
+      "instagram": "@carlos_latin_dance",
+      "tiktok": "@carloslatindance"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Elena Petrov",
+    "email": "elena@lumenstudio.com",
+    "phone": "+1 (555) 456-7890",
+    "specialties": ["Ballet", "Contemporary", "Classical Dance"],
+    "experience": "15 years",
+    "rating": 4.9,
+    "students": 28,
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=688&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "bio": "Former professional ballet dancer and certified instructor with experience in major ballet companies worldwide.",
+    "certifications": [
+      "Royal Academy of Dance Certified",
+      "Professional Ballet Instructor",
+      "Contemporary Dance Specialist"
+    ],
+    "joinedAt": "2018-05-03T00:00:00Z",
+    "socialMedia": {
+      "instagram": "@elena_ballet",
+      "linkedin": "elena-petrov-dance"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ahmed Hassan",
+    "email": "ahmed@lumenstudio.com",
+    "phone": "+1 (555) 567-8901",
+    "specialties": ["Zumba", "Hip Hop", "Fitness Dance", "Cardio Dance"],
+    "experience": "6 years",
+    "rating": 4.6,
+    "students": 67,
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "bio": "Certified fitness instructor specializing in dance-based workouts that make exercise fun and effective.",
+    "certifications": ["Zumba Instructor License", "Personal Fitness Trainer", "Group Fitness Specialist"],
+    "joinedAt": "2021-02-14T00:00:00Z",
+    "socialMedia": {
+      "instagram": "@ahmed_fitness_dance",
+      "youtube": "AhmedFitnessDance"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Priya Sharma",
+    "email": "priya@lumenstudio.com",
+    "phone": "+1 (555) 678-9012",
+    "specialties": ["Yoga", "Meditation", "Mindful Movement", "Wellness"],
+    "experience": "9 years",
+    "rating": 4.8,
+    "students": 34,
+    "status": "active",
+    "avatar": "https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "bio": "Certified yoga instructor with expertise in mindfulness and wellness, combining traditional practices with modern dance.",
+    "certifications": ["200-Hour Yoga Teacher Training", "Meditation Instructor", "Wellness Coach Certification"],
+    "joinedAt": "2020-09-07T00:00:00Z",
+    "socialMedia": {
+      "instagram": "@priya_yoga_dance",
+      "website": "priyasharma-wellness.com"
+    }
+  }
+]
