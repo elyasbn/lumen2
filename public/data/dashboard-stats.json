@@ -1,0 +1,79 @@
+{
+  "overview": {
+    "totalStudents": 245,
+    "activeClasses": 12,
+    "monthlyRevenue": 18500,
+    "totalBlogPosts": 28,
+    "growthMetrics": {
+      "studentsGrowth": 12,
+      "classesGrowth": 8,
+      "revenueGrowth": 15,
+      "postsGrowth": 25
+    }
+  },
+  "todaySchedule": [
+    {
+      "id": 1,
+      "className": "Belly Dance Fundamentals",
+      "time": "10:00 AM",
+      "instructor": "Maria Rodriguez",
+      "enrolled": 18,
+      "capacity": 20,
+      "status": "upcoming"
+    },
+    {
+      "id": 2,
+      "className": "Advanced Salsa",
+      "time": "2:00 PM",
+      "instructor": "Carlos Mendez",
+      "enrolled": 16,
+      "capacity": 16,
+      "status": "full"
+    },
+    {
+      "id": 3,
+      "className": "Khaleej Traditional Dance",
+      "time": "4:00 PM",
+      "instructor": "Fatima Al-Zahra",
+      "enrolled": 12,
+      "capacity": 15,
+      "status": "upcoming"
+    }
+  ],
+  "recentActivity": [
+    {
+      "id": 1,
+      "type": "enrollment",
+      "message": "New student enrolled in Belly Dance Fundamentals",
+      "timestamp": "2024-01-15T10:30:00Z",
+      "icon": "user-plus"
+    },
+    {
+      "id": 2,
+      "type": "blog",
+      "message": "New blog post published: Health Benefits of Dance",
+      "timestamp": "2024-01-15T09:15:00Z",
+      "icon": "file-text"
+    },
+    {
+      "id": 3,
+      "type": "event",
+      "message": "Annual Dance Showcase event created",
+      "timestamp": "2024-01-15T08:45:00Z",
+      "icon": "calendar"
+    },
+    {
+      "id": 4,
+      "type": "product",
+      "message": "New dance costume added to shop",
+      "timestamp": "2024-01-14T16:20:00Z",
+      "icon": "package"
+    }
+  ],
+  "quickStats": {
+    "pendingEnrollments": 8,
+    "lowStockProducts": 3,
+    "upcomingEvents": 5,
+    "draftPosts": 2
+  }
+}
